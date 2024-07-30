@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **DSA, Next js and Spring**
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **shubhranshupanda2020@gmail.com**
+- 📫 How to reach me **shubhranshu.professional@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
